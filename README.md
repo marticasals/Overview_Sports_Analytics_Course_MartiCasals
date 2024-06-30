@@ -1,6 +1,6 @@
 # Overview of Sports Analytics
 
-* Course Details
+## Course Details
 
 * Date: 1 July
 * Time: 9:00 AM - 12:00 PM
